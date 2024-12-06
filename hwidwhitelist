@@ -1,0 +1,10 @@
+return {
+"f0f746a4-0428-42e7-9596-f95688225b2a", -- TimurB#1
+"e2bded57-b69a-4e50-a5e7-f5486aab961c", -- TimurB#2
+"d89df04a-5113-4228-b4f0-15798ce0e89c", -- TimurB#3
+"16c0bee9-5487-452c-8019-240683067cff", -- Snail#1
+"3caf444e-fa75-440a-ab41-d442d410cc66", -- Snail#2
+"06437b6c-b391-4221-9516-818049688613", -- Snail#3
+"08711ea3-ab62-4ced-b773-a478f10671c9", -- Grimzin1
+"ec401003-052e-4db9-9f7e-de4b73e83217" -- Grimzin2
+}
